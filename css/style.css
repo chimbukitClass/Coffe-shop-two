@@ -35,3 +35,14 @@
     margin: 0px 10px;
 }
 /* Header Css End */
+
+/* Banner css start */
+.banner{
+    width: 100vw;
+    height: 80vh;
+    background-image: url("/images/home-img.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+/* Banner css end */
